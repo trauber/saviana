@@ -7,10 +7,11 @@ See https://savianaarts.wixsite.com/savianaarts for published changes. Note that
 TODO
 
 - [ ] set up domain on godaddy
-
+- [ ] rework colors, font sizes
 
 ## 2022-11-11
 
+- added commissions text and examples with images
 - fit google testimonials into mobile design
 - edited mobile quick action bar; only links to the youtube chanel
 - created personal gallery folders, populated them
