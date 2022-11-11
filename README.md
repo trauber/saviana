@@ -2,6 +2,8 @@
 
 Progress...
 
+See https://savianaarts.wixsite.com/savianaarts for published changes. Note that savianaarts.com points to the WP site.
+
 TODO
 
 - [ ] set up domain on godaddy
