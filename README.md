@@ -11,6 +11,7 @@ TODO
 
 ## 2022-11-11
 
+- fit google testimonials into mobile design
 - edited mobile quick action bar; only links to the youtube chanel
 - created personal gallery folders, populated them
   - added titles and descriptions to Sara's gallery
