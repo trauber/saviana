@@ -4,7 +4,7 @@ Progress...
 
 TODO
 
-[ ] - set up domain on godaddy
+- [ ] set up domain on godaddy
 
 
 ## 2022-11-11
