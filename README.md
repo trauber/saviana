@@ -2,6 +2,11 @@
 
 Progress...
 
+TODO
+
+[ ] - set up domain on godaddy
+
+
 ## 2022-11-11
 
 - edited mobile quick action bar; only links to the youtube chanel
@@ -16,3 +21,7 @@ Progress...
   - added futura sans serif font for all paragraphs
   - changed headers to descending size 1-6
   - tree only logo
+
+## 2022-11-09
+
+- 
