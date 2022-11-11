@@ -4,6 +4,7 @@ Progress...
 
 ## 2022-11-11
 
+- edited mobile quick action bar; only links to the youtube chanel
 - created personal gallery folders, populated them
   - added titles and descriptions to Sara's gallery
   - added titles and descriptions to Viv's gallery
