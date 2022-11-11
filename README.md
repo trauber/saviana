@@ -6,6 +6,7 @@ Progress...
 
 - created personal gallery folders, populated them
   - added titles and descriptions to Sara's gallery
+  - added titles and descriptions to Viv's gallery
 
 ## 2022-11-10
 
