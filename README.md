@@ -6,8 +6,10 @@ See https://savianaarts.wixsite.com/savianaarts for published changes. Note that
 
 TODO
 
+- [ ] icons (favicon, og:image)
 - [ ] set up domain on godaddy
 - [ ] rework colors, font sizes
+
 
 ## 2022-11-11
 
