@@ -14,6 +14,11 @@ TODO
 - [ ] set up domain on godaddy
 - [ ] rework colors, font sizes
 
+## 2022-11-12
+
+- added "area" to end of Nuyorican footnote
+- replace dashed line before footnotes with horizontal line
+- added qr code for viewing mobile to this readme
 
 ## 2022-11-11
 
