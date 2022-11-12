@@ -13,6 +13,7 @@ TODO
 - [ ] icons (favicon, og:image)
 - [ ] set up domain on godaddy
 - [ ] rework colors, font sizes
+- [ ] read, learn, do: [Wix Editor: Fixing Spacing and Alignment Issues on Your Site](https://support.wix.com/en/article/wix-editor-fixing-spacing-and-alignment-issues-on-your-site)
 
 ## 2022-11-12
 
