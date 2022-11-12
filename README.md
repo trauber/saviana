@@ -4,6 +4,10 @@ Progress...
 
 See https://savianaarts.wixsite.com/savianaarts for published changes. Note that savianaarts.com points to the WP site.
 
+Use this QR code to view the mobile site.
+
+![view mobile saviana](view-mobile.png)
+
 TODO
 
 - [ ] icons (favicon, og:image)
