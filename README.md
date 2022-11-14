@@ -11,10 +11,13 @@ Use this QR code to view the mobile site.
 TODO
 
 - [ ] icons (favicon, og:image)
-- [ ] set up domain on godaddy
-- [ ] rework colors, font sizes
+- [ ] rework colors, font sizes, review header sizes, make sure all text is large enough
 - [ ] read, learn, do: [Wix Editor: Fixing Spacing and Alignment Issues on Your Site](https://support.wix.com/en/article/wix-editor-fixing-spacing-and-alignment-issues-on-your-site)
 - [ ] redo commission examples with a blank repeater, no hover
+  - attach an image, align it, change for other containers
+  - attach text, style it, change for other containers
+- [ ] align all non-repeater text. (columns or containers?)
+- [ ] set up domain on godaddy
 
 ## 2022-11-12
 
