@@ -14,6 +14,7 @@ TODO
 - [ ] set up domain on godaddy
 - [ ] rework colors, font sizes
 - [ ] read, learn, do: [Wix Editor: Fixing Spacing and Alignment Issues on Your Site](https://support.wix.com/en/article/wix-editor-fixing-spacing-and-alignment-issues-on-your-site)
+- [ ] redo commission examples with a blank repeater, no hover
 
 ## 2022-11-12
 
