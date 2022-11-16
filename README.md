@@ -12,12 +12,27 @@ TODO
 
 - [ ] icons (favicon, og:image)
 - [ ] rework colors, font sizes, review header sizes, make sure all text is large enough
+  - [ ] mix peach and taupe into theme colors
+  - [ ] go over header sizes
 - [ ] read, learn, do: [Wix Editor: Fixing Spacing and Alignment Issues on Your Site](https://support.wix.com/en/article/wix-editor-fixing-spacing-and-alignment-issues-on-your-site)
 - [ ] redo commission examples with a blank repeater, no hover
   - attach an image, align it, change for other containers
   - attach text, style it, change for other containers
 - [ ] align all non-repeater text. (columns or containers?)
 - [ ] set up domain on godaddy
+
+
+## 2022-11-15 Zoom
+
+- futura font okay
+- galleries okay
+- wix picks up new etsy categories when shop connection is refreshed under widget settings
+- in future etsy categories will be:
+  - prints and posters
+  - destination arrows
+  - postcards
+  - crafts (mostly glassware and tiles)
+- more flexibility and accuracy in etsy pricing information?
 
 ## 2022-11-12
 
