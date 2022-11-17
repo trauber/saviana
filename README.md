@@ -21,6 +21,10 @@ TODO
 - [ ] align all non-repeater text. (columns or containers?)
 - [ ] set up domain on godaddy
 
+## 2022-11-16
+
+- [Palettes](palettes.md)
+
 
 ## 2022-11-15 Zoom
 
