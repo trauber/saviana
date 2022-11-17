@@ -1,5 +1,3 @@
-<html>
-    <body>
 <!-- Coolors Palette Widget -->
       <script src="https://coolors.co/palette-widget/widget.js"></script>
       <script data-id="020924744527540007">new CoolorsPaletteWidget("020924744527540007", ["bfb5af","ece2d0","d5b9b2","a26769","582c4d"]); </script>
@@ -17,5 +15,3 @@
       <script src="https://coolors.co/palette-widget/widget.js"></script>
       <script data-id="02071338941318701">new CoolorsPaletteWidget("02071338941318701", ["ccd7c5","efd2cb","c7a27c","d65780","ee9480"]); </script>
 
-      </body>
-</html>
