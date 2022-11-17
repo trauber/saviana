@@ -6,7 +6,7 @@ See https://savianaarts.wixsite.com/savianaarts for published changes. Note that
 
 Use this QR code to view the mobile site.
 
-![view mobile saviana](view-mobile.png)
+![view mobile saviana](img/view-mobile.png)
 
 TODO
 
