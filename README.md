@@ -26,12 +26,13 @@ TODO
 ## 2022-11-18
 
 - squared off logo at 600x600; complete logo now displays on mobile
+- moved menu to top of header
+- scaled down logo display to make to of below the fold matter appear on screen
 
 ## 2022-11-17
 
 - Put up new logo, linked to home page.
 - put up prettier contact us; reformatted about us 
-- moved menu to top of header
 
 ## 2022-11-16
 
