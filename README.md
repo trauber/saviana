@@ -20,6 +20,17 @@ TODO
   - attach text, style it, change for other containers
 - [ ] align all non-repeater text. (columns or containers?)
 - [ ] set up domain on godaddy
+- [ ] review all pages in mobile
+
+
+## 2022-11-18
+
+- squared off logo at 600x600; complete logo now displays on mobile
+
+## 2022-11-17
+
+- Put up new logo, linked to home page.
+- put up prettier contact us; reformatted about us 
 
 ## 2022-11-16
 
