@@ -31,6 +31,7 @@ TODO
 
 - Put up new logo, linked to home page.
 - put up prettier contact us; reformatted about us 
+- moved menu to top of header
 
 ## 2022-11-16
 
