@@ -22,6 +22,11 @@ TODO
 - [ ] set up domain on godaddy
 - [ ] review all pages in mobile
 
+## 2022-11-19
+
+- created gradient text image for title. See [titlecss.md](titlecss.md)
+- made logo smaller and moved it to left of menu
+
 
 ## 2022-11-18
 
