@@ -26,6 +26,7 @@ TODO
 
 - created gradient text image for title. See [titlecss.md](titlecss.md)
 - made logo smaller and moved it to left of menu
+- added social bar with custom color icons
 
 
 ## 2022-11-18
