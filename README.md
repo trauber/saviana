@@ -21,6 +21,11 @@ TODO
 - [ ] align all non-repeater text. (columns or containers?)
 - [ ] set up domain on godaddy
 - [ ] review all pages in mobile
+- [ ] fix overlaps; no see https://support.wix.com/en/article/accessibility-turning-the-blue-boxes-visual-indicators-on-and-off
+
+## 2022-11-26
+
+- turned off visual indicators for keyboard users; turns off blue lines. See [Accessibility: Turning the Blue Boxes (Visual Indicators) On and Off](https://support.wix.com/en/article/accessibility-turning-the-blue-boxes-visual-indicators-on-and-off).
 
 ## 2022-11-19
 
