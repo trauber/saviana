@@ -23,6 +23,18 @@ TODO
 - [ ] review all pages in mobile
 - [ ] fix overlaps; no see https://support.wix.com/en/article/accessibility-turning-the-blue-boxes-visual-indicators-on-and-off
 
+
+## 2022-12-01
+
+- Moved shop content up on WP homepage
+- Moved shop menu item to the left on menu
+
+## 2022-11-30
+
+- Added Etsy Shop plugin to WordPress, AM
+- Zoom, PM
+
+
 ## 2022-11-26
 
 - turned off visual indicators for keyboard users; turns off blue lines. See [Accessibility: Turning the Blue Boxes (Visual Indicators) On and Off](https://support.wix.com/en/article/accessibility-turning-the-blue-boxes-visual-indicators-on-and-off).
