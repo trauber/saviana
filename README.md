@@ -27,7 +27,8 @@ TODO
 ## 2022-12-01
 
 - Moved shop content up on WP homepage
-- Moved shop menu item to the left on menu
+- Moved shop menu item to the left on WP menu
+- added tiktok icon and link to wix social bar
 
 ## 2022-11-30
 
